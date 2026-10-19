@@ -1,0 +1,35 @@
+{
+  "name": "sskru-internhub",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SSKRU InternHub & CoopFlow System - ระบบบริหารจัดการฝึกงานและสหกิจศึกษา มหาวิทยาลัยราชภัฏศรีสะเกษ",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmkunlanat/SSKRU_InrenHup.git"
+  },
+  "keywords": [
+    "sskru",
+    "internship",
+    "coop",
+    "logbook",
+    "attendance"
+  ],
+  "author": "SSKRU",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.59.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@rolldown/binding-win32-x64-msvc": "^1.2.14",
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  }
+}
